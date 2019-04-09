@@ -1,0 +1,5 @@
+-Level usulüne göre 5-10 bölüm arasýnda parkur olacak.
+-Zeminde titremeler kalkacak.
+-Canlar belirli olaylara göre azalacak
+-Oyun içinde can toplama olayý olacak
+-Belirli yüzde puan alýnmadýðý sürece diðer bölüme geçiþ olmayacak.
